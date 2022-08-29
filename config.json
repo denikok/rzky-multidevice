@@ -1,5 +1,5 @@
 {
-	"owner": ["6282387804410@s.whatsapp.net"],
+	"owner": ["6287746307000@s.whatsapp.net"],
 	"thumbvideo": "http://fzcdn.cf/file/M6ZTnUwd2hXOcD7Yr~3y.mp4",
 	"thumb": "https://telegra.ph/file/d8dba7eee759ff82b35be.jpg",
 	"session": "rzkyfdlh-md.json",
@@ -8,11 +8,11 @@
 	"server": false,
 	"comment_server": "change 'server' with 'true', if you run in replit!",
 	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
-	"packInfo": { "packname": "@rizkyfadilah8", "author": "6282387804410" },
-	"namebot": "KurumiBot",
+	"packInfo": { "packname": "@ri8", "author": "6287746307000" },
+	"namebot": "DenzBot",
 	"timezone": "Asia/Jakarta",
-	"email": "admin@rzkyfdlh.tech",
-	"instagram": "https://instagram.com/rizkyfadilah8_",
+	"email": "admin@tech",
+	"instagram": "https://instagram.com/_",
 	"locale": "id",
 	"ignore": {
 		"directory": ["umum"]
